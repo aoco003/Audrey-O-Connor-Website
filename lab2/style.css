@@ -1,0 +1,57 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat);
+.Top-Bar {
+    width: 100%;
+    text-align: center;
+    white-space: nowrap;
+    overflow: hidden;
+    padding: 2px;
+    height: 75px;
+    background-color: #d0a5f9;
+}
+h1 {
+    color: white;
+    font-family: "Montserrat", Arial;
+}
+body{
+    background-color: #ddff00;
+    margin:0;
+    padding:0;
+    text-align: center;
+}
+.Main{
+    width: 100%;
+    text-align: center;
+    overflow: auto;
+}
+.Text-Box {
+    font-size: 20px;
+    text-shadow: 0 1px 0 #FFF;
+    font-family: "Montserrat", Arial;
+}
+.Text-Box-2{
+    font-size: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-shadow: 0 1px 0 #FFF;
+    font-family: "Montserrat", Arial;
+}
+.footer-text{
+    text shadow: 0 1px 0 #FFF;
+    font-family: "Montserrat", Arial;
+    font-size: .75em;
+}
+h2{
+    color: #6922b0;
+}
+.button{
+    height: 38px;
+    background: #f3a6f3;
+    border: 3px solid #f3f2a6;
+    font-size: 14px;
+    color: #6922b0;
+    cursor: pointer;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.5);
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
